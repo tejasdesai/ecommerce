@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+@charset "UTF-8";
+
+.button {
+  background-color: #353333;
+  color: white;
+  padding: 14px 20px;
+  margin: 25px 0;
+  border: none;
+  cursor: pointer;
+  width: 40%;
+}
+.error {
+	color: red;
+}
+.cart-item{
+	display: block;
+	width: 20%;
+	float: left;
+}
+.cart-item-check {
+	display: block;
+	width: 5%;
+	float: left;
+}
+.cart-item-name{
+	display: block;
+	width: 30%;
+	float: left;
+}
+.item-container{
+	width: 100% !important;
+}
+.button-container{
+	width: 100%;
+	text-align: center;
+}
+.quantity{
+	width: 100px;
+}
+.item-holder{
+	width: 60%;
+    float: left;
+    padding: 10px 0 10px 0;
+}
